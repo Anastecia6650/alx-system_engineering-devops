@@ -2,3 +2,8 @@
 ! :mime School
 file -C -m school.mgc
 file --mime-type -m school.mgc
+#!/bin/bash
+0 string SCHOOL School data
+! :mime School
+file -C -m school.mgc
+file --mime-type -m school.mgc
