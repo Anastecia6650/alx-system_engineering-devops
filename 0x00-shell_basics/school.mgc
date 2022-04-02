@@ -7,3 +7,9 @@ file --mime-type -m school.mgc
 ! :mime School
 file -C -m school.mgc
 file --mime-type -m school.mgc
+#!/bin/bash
+0 string SCHOOL School data
+! :mime School
+chmod u+x school.mgc
+file -C -m school.mgc
+file --mime-type -m school.mgc
