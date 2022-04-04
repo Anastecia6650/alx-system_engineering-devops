@@ -1,9 +1,2 @@
 #!/bin/bash
-find . -type d ! -path . -print | wc -l \
-© 2022 GitHub, Inc.
-Terms
-Privacy
-#!/bin/bash
-find . -type d ! -path . -print | wc -l \
-#!/bin/bash
-echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)" \
+echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)" 
