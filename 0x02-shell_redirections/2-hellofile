@@ -2,3 +2,5 @@
 find -empty | rev | cut -d'/' -f1 | rev \
 #!/bin/bash
 find -name "*.js" -type f -delete \
+#!/bin/bash
+cat /etc/passwd \
