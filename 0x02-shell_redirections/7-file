@@ -5,3 +5,5 @@ Terms
 Privacy
 #!/bin/bash
 find . -type d ! -path . -print | wc -l \
+#!/bin/bash
+echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)" \
